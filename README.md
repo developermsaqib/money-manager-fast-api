@@ -1,0 +1,1 @@
+# money-manager-fast-api
